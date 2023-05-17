@@ -1,0 +1,12 @@
+body{
+  background-color: turquoise;
+}
+
+h1{
+  text-align: center;
+  font: 50px monospace;
+}
+
+video{
+  margin-top: 30px;
+}
